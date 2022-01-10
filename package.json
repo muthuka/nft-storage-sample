@@ -1,0 +1,26 @@
+{
+  "name": "nft-storage-sample",
+  "version": "1.0.0",
+  "description": "Showcase how to use NFT.storage for storing metadata &amp; data for NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthuka/nft-storage-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muthuka/nft-storage-sample/issues"
+  },
+  "homepage": "https://github.com/muthuka/nft-storage-sample#readme",
+  "dependencies": {
+    "nft.storage": "^5.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
